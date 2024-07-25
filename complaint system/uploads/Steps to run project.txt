@@ -1,0 +1,5 @@
+1.Download XAMPP and run MySQL, Apache
+  ->Have to place project folder in xampp -> htdocs
+  ->In PHPMyAdmin import project.sql file from your project 
+2.In search Bar Type 127.0.0.1/complaint system/
+3.Then signup and login
